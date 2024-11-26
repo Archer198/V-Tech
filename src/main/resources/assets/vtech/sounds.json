@@ -1,0 +1,10 @@
+{
+  "glorp_song": {
+    "sounds": [
+      {
+        "name": "vtech:glorp_song",
+        "stream": true
+      }
+    ]
+  }
+}
